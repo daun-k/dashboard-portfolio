@@ -1,29 +1,59 @@
-# Data Studio Dashboard Portfolio
+# Data Dashboard Portfolio
 
 🌐 [한국어](README.md) | **English**
 
-Use the links below to open each live dashboard and its analysis repository.
+A collection of interactive data analysis dashboards built with various BI tools (Data Studio, Tableau).
+
+## Contents
+
+1. [Data Studio](#data-studio-dashboards)
+2. [Tableau](#tableau-public-dashboards)
+
+---
+
+## Data Studio Dashboards
 
 ![Data Studio](https://img.shields.io/badge/Data%20Studio-4285F4?style=for-the-badge&logo=looker&logoColor=white)
 
-<table>
-<tr>
-<td align="center" width="50%">
-<!-- Image: drag and drop an image here -->
-<b>Steam Top 100 Games</b><br>
-Concurrent Players · Genre Share · Ratings<br>
-Dashboard:
-<a href="https://lookerstudio.google.com/reporting/STEAM_KO_REPORT_ID">한국어</a> ·
-<a href="https://lookerstudio.google.com/reporting/STEAM_EN_REPORT_ID">English</a><br>
-<a href="https://github.com/daun-k/steam-top100-player-analysis">Details</a>
-</td>
-<td align="center" width="50%">
-<!-- Image: drag and drop an image here -->
-<b>Cafe &amp; Bakery Sales Overview</b><br>
-Sales · Sales by Menu Item · Hourly Trends<br>
-Dashboard:
-<a href="https://lookerstudio.google.com/reporting/CAFE_REPORT_ID">한국어</a><br>
-<a href="https://github.com/daun-k/cafe-bakery-sales">Details</a>
-</td>
-</tr>
-</table>
+### Steam Top 100 Games Analysis
+
+<!-- Placeholder image: replace with the real one -->
+<img src="https://placehold.co/800x450/png?text=Steam+Top+100+Dashboard" width="600">
+
+* Concurrent Players · Genre Share · Ratings
+* Dashboard: [한국어](STEAM_KO_DASHBOARD_URL) · [English](STEAM_EN_DASHBOARD_URL)
+* [GitHub Repository](https://github.com/daun-k/steam-top100-player-analysis)
+
+### Cafe & Bakery Sales Analysis
+
+<!-- Placeholder image: replace with the real one -->
+<img src="https://placehold.co/800x450/png?text=Cafe+Bakery+Sales+Dashboard" width="600">
+
+* Sales · Sales by Menu Item · Hourly Trends
+* Dashboard: [한국어](CAFE_DASHBOARD_URL)
+* [GitHub Repository](https://github.com/daun-k/cafe-bakery-sales)
+
+---
+
+## Tableau Public Dashboards
+
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+
+### Tableau Project 1
+
+* Key metrics and insights
+* Dashboard: [Tableau Public Link](#)
+* [GitHub Repository](#)
+
+### Tableau Project 2
+
+* Key metrics and insights
+* Dashboard: [Tableau Public Link](#)
+* [GitHub Repository](#)
+
+### Tableau Project 3
+
+* Key metrics and insights
+* Dashboard: [Tableau Public Link](#)
+* [GitHub Repository](#)
+-->
