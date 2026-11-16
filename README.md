@@ -1,4 +1,4 @@
-# Data Dashboard Portfolio
+# 대시보드 포트폴리오
 
 🌐 **한국어** | [English](README.en.md)
 

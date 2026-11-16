@@ -1,4 +1,4 @@
-# Data Dashboard Portfolio
+# Dashboard Portfolio
 
 🌐 [한국어](README.md) | **English**
 
