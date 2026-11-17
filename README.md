@@ -18,16 +18,16 @@
 ### Steam 인기 게임 TOP 100 분석
 
 <!-- 임시 이미지: 실제 이미지로 교체하세요 -->
-<img src="https://placehold.co/800x450/png?text=Steam+Top+100+Dashboard" width="600">
+<img src="https://placehold.co/800x450/png?text=Steam+Top+100+Dashboard" width="300">
 
 * 동시 접속자 · 장르별 비중 · 평점 분석
-* 대시보드: [한국어](STEAM_KO_DASHBOARD_URL) · [English](STEAM_EN_DASHBOARD_URL)
+* 대시보드: [한국어](https://datastudio.google.com/u/0/reporting/004c0505-cef9-446d-a563-f1596c115398/page/Uua7F?hl=ko) · [English](https://datastudio.google.com/u/0/reporting/4b168f0a-d542-476a-8b15-0063b32bafc2/page/Uua7F?hl=en)
 * [GitHub Repository](https://github.com/daun-k/steam-top100-player-analysis)
 
 ### 카페 베이커리 매출 현황 분석
 
 <!-- 임시 이미지: 실제 이미지로 교체하세요 -->
-<img src="https://placehold.co/800x450/png?text=Cafe+Bakery+Sales+Dashboard" width="600">
+<img src="https://placehold.co/800x450/png?text=Cafe+Bakery+Sales+Dashboard" width="300">
 
 * 매출 · 메뉴별 판매량 · 시간대별 추이
 * 대시보드: [한국어](CAFE_DASHBOARD_URL)
