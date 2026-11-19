@@ -18,10 +18,11 @@ A collection of interactive data analysis dashboards built with various BI tools
 ### Steam Top 100 Games Analysis
 
 <!-- Placeholder image: replace with the real one -->
-<img src="https://placehold.co/800x450/png?text=Steam+Top+100+Dashboard" width="300">
+<img width="300" alt="image" src="https://github.com/user-attachments/assets/b6eac23c-7edc-478a-be23-baa6fa6f9824" />
+
 
 * Concurrent Players · Genre Share · Ratings
-* Dashboard: [한국어](https://datastudio.google.com/u/0/reporting/004c0505-cef9-446d-a563-f1596c115398/page/Uua7F=ko) · [English](https://datastudio.google.com/u/0/reporting/4b168f0a-d542-476a-8b15-0063b32bafc2/page/Uua7F?hl=en)
+* Dashboard: [Korean](https://datastudio.google.com/u/0/reporting/004c0505-cef9-446d-a563-f1596c115398/page/Uua7F=ko) · [English](https://datastudio.google.com/u/0/reporting/4b168f0a-d542-476a-8b15-0063b32bafc2/page/Uua7F?hl=en)
 * [GitHub Repository](https://github.com/daun-k/steam-top100-player-analysis)
 
 ### Cafe & Bakery Sales Analysis
@@ -29,8 +30,10 @@ A collection of interactive data analysis dashboards built with various BI tools
 <!-- Placeholder image: replace with the real one -->
 <img src="https://placehold.co/800x450/png?text=Cafe+Bakery+Sales+Dashboard" width="300">
 
+<img width="300" alt="image" src="https://github.com/user-attachments/assets/71a159eb-9be1-4b0c-8a28-2ecbf47ef61e" />
+
 * Sales · Sales by Menu Item · Hourly Trends
-* Dashboard: [한국어](CAFE_DASHBOARD_URL)
+* Dashboard: [Korean](https://datastudio.google.com/u/2/reporting/b7da5c91-bd17-4853-aea8-6b74544ef9d2/page/p8B7F)
 * [GitHub Repository](https://github.com/daun-k/cafe-bakery-sales)
 
 ---
