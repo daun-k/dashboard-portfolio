@@ -17,7 +17,6 @@ A collection of interactive data analysis dashboards built with various BI tools
 
 ### Steam Top 100 Games Analysis
 
-<!-- Placeholder image: replace with the real one -->
 <img width="300" alt="image" src="https://github.com/user-attachments/assets/b6eac23c-7edc-478a-be23-baa6fa6f9824" />
 
 
@@ -26,9 +25,6 @@ A collection of interactive data analysis dashboards built with various BI tools
 * [GitHub Repository](https://github.com/daun-k/steam-top100-player-analysis)
 
 ### Cafe & Bakery Sales Analysis
-
-<!-- Placeholder image: replace with the real one -->
-<img src="https://placehold.co/800x450/png?text=Cafe+Bakery+Sales+Dashboard" width="300">
 
 <img width="300" alt="image" src="https://github.com/user-attachments/assets/71a159eb-9be1-4b0c-8a28-2ecbf47ef61e" />
 
