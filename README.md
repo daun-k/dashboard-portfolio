@@ -43,7 +43,7 @@
 
 <img width="300" alt="image" src="https://github.com/user-attachments/assets/dc70571b-3358-4d44-a376-6cc9bdabc07b" />
 
-* 요 KPI · 과금·어뷰저 · 리텐션·퍼널 · 재화 획득
+* 주요 KPI · 과금·어뷰저 · 리텐션·퍼널 · 재화 획득
 * 대시보드: [한국어](https://public.tableau.com/app/profile/daun.k/viz/261117_astrasia/Overview)
 * [GitHub Repository](#)
 
@@ -51,6 +51,6 @@
 
 <img width="300" alt="image" src="https://github.com/user-attachments/assets/e9f85839-bf94-42cd-85e2-2a7b976efaa1" />
 
-* 주요 요약 지표 및 인사이트
+* 이용자 구성 분석 · 음악 재생 행태 · 일별 이용 추이
 * 대시보드: [한국어](https://public.tableau.com/app/profile/daun.k/viz/20251BOOM_17750116444780/BOOM)
 * [GitHub Repository](#)
