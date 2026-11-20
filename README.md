@@ -39,21 +39,18 @@
 
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 
-### 태블로 프로젝트 이름 1
+### Astrasia Online MMORPG KPI 대시보드
 
-* 주요 요약 지표 및 인사이트
-* 대시보드: [Tableau Public 링크](#)
+<img width="300" alt="image" src="https://github.com/user-attachments/assets/dc70571b-3358-4d44-a376-6cc9bdabc07b" />
+
+* 요 KPI · 과금·어뷰저 · 리텐션·퍼널 · 재화 획득
+* 대시보드: [한국어](https://public.tableau.com/app/profile/daun.k/viz/261117_astrasia/Overview)
 * [GitHub Repository](#)
 
-### 태블로 프로젝트 이름 2
+### 2025년 1월 BOOM 이용자 행태
+
+<img width="300" alt="image" src="https://github.com/user-attachments/assets/e9f85839-bf94-42cd-85e2-2a7b976efaa1" />
 
 * 주요 요약 지표 및 인사이트
-* 대시보드: [Tableau Public 링크](#)
+* 대시보드: [한국어](https://public.tableau.com/app/profile/daun.k/viz/20251BOOM_17750116444780/BOOM)
 * [GitHub Repository](#)
-
-### 태블로 프로젝트 이름 3
-
-* 주요 요약 지표 및 인사이트
-* 대시보드: [Tableau Public 링크](#)
-* [GitHub Repository](#)
--->
