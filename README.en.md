@@ -38,21 +38,18 @@ A collection of interactive data analysis dashboards built with various BI tools
 
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 
-### Tableau Project 1
+### Astrasia Online MMORPG KPI Dashboard
 
-* Key metrics and insights
-* Dashboard: [Tableau Public Link](#)
+<img width="300" alt="image" src="https://github.com/user-attachments/assets/dc70571b-3358-4d44-a376-6cc9bdabc07b" />
+
+* Key KPIs · Spending & Abuse · Retention & Funnel · In-game Currency
+* Dashboard: [Korean](https://public.tableau.com/app/profile/daun.k/viz/261117_astrasia/Overview)
 * [GitHub Repository](#)
 
-### Tableau Project 2
+### BOOM User Behavior in January 2025
 
-* Key metrics and insights
-* Dashboard: [Tableau Public Link](#)
+<img width="300" alt="image" src="https://github.com/user-attachments/assets/e9f85839-bf94-42cd-85e2-2a7b976efaa1" />
+
+* User Composition · Music Listening Behavior · Daily Usage Trends
+* Dashboard: [Korean](https://public.tableau.com/app/profile/daun.k/viz/20251BOOM_17750116444780/BOOM)
 * [GitHub Repository](#)
-
-### Tableau Project 3
-
-* Key metrics and insights
-* Dashboard: [Tableau Public Link](#)
-* [GitHub Repository](#)
--->
